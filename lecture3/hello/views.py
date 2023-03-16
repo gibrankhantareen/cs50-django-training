@@ -10,3 +10,6 @@ def gibran(request):
 
 def ahad(request):
     return HttpResponse("Ahad Hello!")
+
+def greet(request,name):
+    return HttpResponse(f"Hello, {name}")
