@@ -1,5 +1,5 @@
 # CS50 Django Training - Along with a Major Project of To Do App
-I am currently learning Django. I am being mentored by Nazim Sir. I am having a lot of fun learning Django and I will make a "To Do" App as "Final Project" of my ongoing training here.
+I am currently learning Django. I have started to gain in-depth knowledge by learning through Harvard's CS50 course. I am being mentored by Nazim Sir. Learning Django is a lot of fun. Finally after my training I will make a final project of a "To Do App".
 
 ## Authors
 - [@gibrankhantareen](https://www.github.com/gibrankhantareen)
