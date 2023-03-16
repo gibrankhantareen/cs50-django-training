@@ -12,7 +12,9 @@ def ahad(request):
     return HttpResponse("Ahad Hello!")
 
 def greet(request,name):
-    return HttpResponse(f"Hello, {name}")
+    return render(request, "hello/greet.html", {
+        "name": name.capitalize()
+    })
 
 #Rendering a complete template on Request
 def index(request):
